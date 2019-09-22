@@ -1,0 +1,11 @@
+/out:"D:\Chibuike\Projects\Myself\Applications\Visual Studio\learning_wpf\Simple Calculator\Simple Calculator\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\Chibuike\Projects\Myself\Applications\Visual Studio\learning_wpf\Simple Calculator\Simple Calculator\obj\x86\Release\ilc\intermediate\\"
+/ref:"D:\Chibuike\Projects\Myself\Applications\Visual Studio\learning_wpf\Simple Calculator\Simple Calculator\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"D:\Chibuike\Projects\Myself\Applications\Visual Studio\learning_wpf\Simple Calculator\Simple Calculator\obj\x86\Release\ilc\intermediate\TransformedSRWR"
+/ref:"D:\Chibuike\Projects\Myself\Applications\Visual Studio\learning_wpf\Simple Calculator\Simple Calculator\obj\x86\Release\ilc\in"
+/ref:"D:\Chibuike\Projects\Myself\Applications\Visual Studio\learning_wpf\Simple Calculator\Simple Calculator\obj\x86\Release\ilc\in\\"
+/ref:"D:\Chibuike\Projects\Myself\Applications\Visual Studio\learning_wpf\Simple Calculator\Simple Calculator\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\lib\Private\\"
+/ref:"D:\Chibuike\Projects\Myself\Applications\Visual Studio\learning_wpf\Simple Calculator\Simple Calculator\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\csc"

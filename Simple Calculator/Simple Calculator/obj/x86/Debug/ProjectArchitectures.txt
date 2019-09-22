@@ -1,0 +1,1 @@
+D:\Chibuike\Projects\Myself\Applications\Visual Studio\learning_wpf\Simple Calculator\Simple Calculator\Simple Calculator.csproj;x86
