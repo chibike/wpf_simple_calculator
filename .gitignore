@@ -1,3 +1,7 @@
+# vs and vscode
+.vs/*
+.vscode/*
+
 # Prerequisites
 *.d
 
